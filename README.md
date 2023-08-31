@@ -1,16 +1,11 @@
-# simple_calculator
+# complex_formula_parser
 
 The goal is to address the fact that flutter does not currently have a parser that specializes in solving complex equations.
 
-## Getting Started
+This is a simple demo mainly for 2x2 complex matrix calculation, but you also can only fill in "S11"s of these two matrix to get results of a complex formula, and there are some parts not that prefect.
 
-This project is a starting point for a Flutter application.
+Hope you guys find questions and offer your precious advice to me in the issues area or e-mail me. 
 
-A few resources to get you started if this is your first Flutter project:
+By the way, the sdk version is based on 3.7.7.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Always stay hungry, stay foolish!
