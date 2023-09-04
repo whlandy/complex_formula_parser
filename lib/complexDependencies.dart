@@ -5,7 +5,6 @@ import 'package:equations/equations.dart';
 import 'package:petitparser/petitparser.dart';
 
 ///还没有做角度和弧度的转化
-///视所有的元素都带着未知数
 ///String output = readyToParser(input);
 ///final coefficientS = stringToComplex(output);
 
